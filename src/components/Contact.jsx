@@ -28,7 +28,7 @@ function Contact() {
         }
     }
     return (
-      <div className="w-full h-[500px] mt-28 lg:h-full mx-auto flex lg:mt-28 justify-center">
+      <div className="w-full h-[500px] mt-24 mb-24  lg:h-full mx-auto flex lg:mt-24 justify-center">
         <form
           onSubmit={onSubmit}
           className="flex flex-col gap-5 h-[50%] p-2  items-center border-2 rounded-lg hover:border-blue-300 lg:p-5 lg:h-[40%] lg:gap-5 lg:items-center lg:w-[30%]  "

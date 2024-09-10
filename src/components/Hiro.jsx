@@ -47,7 +47,7 @@ function Hiro() {
             </Link>
           </h1>
         </div>
-        <div className=" flex  justify-center p-8  h-[80%] items-center lg:w-[45%] md:w-[30%] md:items-center   ">
+        <div className=" flex  justify-center p-8 pt-28  h-[80%] items-center lg:w-[45%] md:w-[30%] md:items-center   ">
           <div className="w-[175px] h-[200px] ml-[25px] rounded-full  items-center text-center bg-gradient-to-b from-red-500 via-yellow-300  to-blue-500  relative blur-md flex-none z-[5px] "></div>
           <img
             src="/src/assets/formal pic.jpg"

@@ -21,8 +21,8 @@ function Skill() {
       </div>
       <div className=" flex flex-col h-full justify-between mt-5  lg:flex lg:h-full w-full lg:flex-row     ">
         <div className="lg:flex lg:flex-row w-full lg:justify-between lg:p-8">
-          <div className="  mt-5 lg:w-[350px] lg:h-[300px] bg-white border-2 rounded-lg lg:flex lg:flex-col p-4">
-            <p className="w-full text-center text-[25px]">Frontend</p>
+          <div className="  mt-5 lg:w-[350px] lg:h-[300px] bg-white border-2 rounded-lg lg:flex lg:flex-col p-4 group hover:border-blue-300">
+            <p className="w-full text-center text-[25px] group-hover:text-blue-500">Frontend</p>
             <div className="w-[70%] flex flex-col pl-7">
               <div className="flex flex-row gap-4  items-center">
                 <RiTailwindCssFill className="text-[30px]" />

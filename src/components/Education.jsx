@@ -27,7 +27,7 @@ function Education() {
               <p className="text-gray-400  text-[12px]">Open to Work</p>
             </div>
           </div>
-          <p className=" text-center  md:w-[50%] md:text-center lg:w-full">
+          <p className=" text-center lg:text-[14.5px] md:w-[50%] md:text-center lg:w-full">
             Passionate about crafting exceptional web experiences, I specialize
             in HTML, CSS, JavaScript, and frameworks like React,
             bringing responsive, scalable, and intuitive applications to life.
