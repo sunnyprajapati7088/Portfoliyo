@@ -10,7 +10,7 @@ import { FaTelegramPlane } from "react-icons/fa";
 function Hiro() {
   return (
     <div className="h-full relative z-[-2px] p-4">
-      <div className=" w-full  h-[80%] lg:h-[50%] md:h-[50%] mt-12 lg:flex  lg:items-center lg:justify-center lg:gap-6 lg:p-16 md:justify-center md:flex md:flex-row  ">
+      <div className=" w-full  h-[80%] lg:h-[50%] md:h-[50%]  lg:flex  lg:items-center lg:justify-center lg:gap-6 lg:p-16 md:justify-center md:flex md:flex-row  ">
         <div className=" flex gap-7 h-[60%] mt-6 w-full flex-row md:w-full md:justify-center md:items-center">
           <div className="h-full flex flex-col justify-evenlyi items-center  lg:gap-7 md:justify-center md:flex-col  md:gap-7">
             <Link to={"https://www.instagram.com/sunny_prajapati_7088/"}>

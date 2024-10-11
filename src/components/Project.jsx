@@ -14,7 +14,7 @@ function Project() {
       {
         name: "Swigy Clone",
         github: "https://github.com/sunnyprajapati7088/Swigy-Clone",
-        weblink: "swiggy-yt-project.vercel.app/",
+        weblink: "https://swiggy-yt-project.vercel.app/",
         discription:
           " web application built using React.js, Firebase, and API integration. Users can login using their Gmail account, browse restaurants, and place orders. The application features a responsive design, secure authentication, and real-time data rendering. - React.js for building the frontend Firebase for authentication and data storag  API integration for fetching restaurant data CORS for enabling cross-origin resource sharing",
         image: "/src/assets/swigy.avif",
@@ -23,7 +23,7 @@ function Project() {
       {
         name: "Live Score Card 2024",
         github: " https://github.com/sunnyprajapati7088/Reactipl",
-        weblink: "https://sunnvipl.netlify.app/",
+        weblink: "https://sunnyipl.netlify.app/",
         discription:
           "Features: Live Score Card, Points Table, Match Details ,Skills Used: React, Tailwind CSS ,API Used: Rapid API (Cricbuzz API)",
         image: "/src/assets/ipl.jpg",
@@ -34,7 +34,7 @@ function Project() {
     <div className="pt-24 ">
       <div className="p-3 w-full h-fit flex flex-col gap-4 ">
         {projects.map((item, i) => (
-          <div key={i} className=" border-2 p-3 gap-3 ">
+          <div key={i} className=" border-2 p-3 gap-3  rounded-lg ">
             {" "}
             <h1 className="mx-auto  text-xl font-bold lg:ml-16 lg:text-[28px]">
               {item.name}
@@ -47,12 +47,17 @@ function Project() {
               <div>
                 <a
                   href={item.github}
+                  target="_blank"
                   className="text-[78%]  md:text-[25px] font-semibold"
                 >
                   {item.github}
                 </a>
                 {item?.weblink ? (
-                  <a href= {item.weblink} className="font-semibold text-[78%] md:text-[20px] ">
+                  <a
+                    href={item.weblink}
+                    target="_blank"
+                    className="font-semibold text-[78%] md:text-[20px] "
+                  >
                     WebLink :- {item.weblink}
                   </a>
                 ) : (
