@@ -29,16 +29,16 @@ function Education() {
           </div>
           <p className=" text-center lg:text-[14.5px] md:w-[50%] md:text-center lg:w-full">
             Passionate about crafting exceptional web experiences, I specialize
-            in HTML, CSS, JavaScript, and frameworks like React,
-            bringing responsive, scalable, and intuitive applications to life.
-            With a keen eye for design and user experience, I continuously
-            strive to push the boundaries of web development, embracing new
-            technologies and trends to deliver innovative solutions that leave a
-            lasting impact.
+            in HTML, CSS, JavaScript, and frameworks like React, bringing
+            responsive, scalable, and intuitive applications to life. With a
+            keen eye for design and user experience, I continuously strive to
+            push the boundaries of web development, embracing new technologies
+            and trends to deliver innovative solutions that leave a lasting
+            impact.
           </p>
 
           <a
-            href="/src/assets/SunnyPrajapatiResume (1).pdf"
+            href="https://drive.google.com/file/d/1jZ2gvbkXnSUrfw6n9Vom52uEqvo1Av2k/view?usp=drivesdk"
             className="text-white w-[120px]  text-center  mx-auto h-10 rounded-lg bg-black flex items-center justify-center"
           >
             Download CV
