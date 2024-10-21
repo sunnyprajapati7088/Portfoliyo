@@ -38,8 +38,9 @@ function Education() {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1jZ2gvbkXnSUrfw6n9Vom52uEqvo1Av2k/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1jQMd7KlVpmhBgzOBK7NYgstlJbdh1HD-/view?usp=sharing"
             className="text-white w-[120px]  text-center  mx-auto h-10 rounded-lg bg-black flex items-center justify-center"
+            target="_blank"
           >
             Download CV
           </a>
