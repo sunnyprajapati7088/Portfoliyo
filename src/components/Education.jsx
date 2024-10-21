@@ -38,7 +38,7 @@ function Education() {
           </p>
 
           <a
-            href="https://drive.google.com/file/d/1jQMd7KlVpmhBgzOBK7NYgstlJbdh1HD-/view?usp=sharing"
+            href="https://drive.google.com/file/d/1O3p_ESm2xSfHsC_AdC6G1opu14_ooukx/view?usp=sharing"
             className="text-white w-[120px]  text-center  mx-auto h-10 rounded-lg bg-black flex items-center justify-center"
             target="_blank"
           >

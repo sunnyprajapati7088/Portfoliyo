@@ -7,7 +7,8 @@ function Project() {
       github: "https://bit.ly/Githublink142",
       description:
         "Developed a secure desktop application using Java, AWT, Swing, JDBC, and MySQL, featuring admin authentication with signup and login functionalities. The application generates fees slips and reports based on a specified date range, with the ability to export reports to Excel sheets. This project showcases my expertise in creating robust and user-friendly applications with strong database integration and reporting capabilities.",
-      image: "/src/assets/fees1.png",
+      image:
+        "https://api.deepai.org/job-view-file/70c4b0bf-7f97-4b88-a50a-04020de873af/outputs/output.jpg?art-image=true",
       f: "0",
     },
     {
@@ -16,7 +17,7 @@ function Project() {
       weblink: "https://swiggy-yt-project.vercel.app/",
       description:
         "Web application built using React.js, Firebase, and API integration. Users can login using their Gmail account, browse restaurants, and place orders. The application features a responsive design, secure authentication, and real-time data rendering.",
-      image: "/src/assets/swigy.avif",
+      image: "https://pnggallery.com/wp-content/uploads/swiggy-logo-01.png",
       f: "1",
     },
     {
@@ -25,7 +26,8 @@ function Project() {
       weblink: "https://sunnyipl.netlify.app/",
       description:
         "Features: Live Score Card, Points Table, Match Details. Skills Used: React, Tailwind CSS. API Used: Rapid API (Cricbuzz API).",
-      image: "/src/assets/ipl.jpg",
+      image:
+        "https://th.bing.com/th/id/OIP.PxvHvdJk9WOxWHxP1eWbrgAAAA?rs=1&pid=ImgDetMain",
       f: "0",
     },
     {
